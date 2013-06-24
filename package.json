@@ -1,0 +1,26 @@
+{
+  "name": "toady-github",
+  "version": "0.1.0",
+  "description": "Provides details on Github repositories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TomFrost/toady-github"
+  }
+  "keywords": [
+    "Toady",
+    "irc",
+    "github",
+    "git",
+    "mod",
+    "bot"
+  ],
+  "author": "Tom Frost <tom@frosteddesign.com>",
+  "license": "BSD",
+  "dependencies": {
+    "octonode": "~0.3.2"
+  }
+}
